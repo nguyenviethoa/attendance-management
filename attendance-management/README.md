@@ -2446,3 +2446,5 @@ If you have ideas for more “How To” recipes that should be on this page, [le
 ## Attendance Management
 1. create-react-app
 2. eslint --init
+3. npx install-peerdeps --dev eslint-config-airbnb
+4. note: merge-graphql-schema
