@@ -1,8 +1,8 @@
 import React from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 
-import Home from './Home';
-import Register from './Register';
+import Home from '../screens/Home';
+import Register from '../screens/Register';
 
 export default () => (
   <BrowserRouter>
